@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kalkulator AA</string>
+    <string-array name="kumpulanoperasihitung">
+        <item>Tambah</item>
+        <item>Kurang</item>
+        <item>Kali</item>
+        <item>Bagi</item>
+    </string-array>
+</resources>
